@@ -1,0 +1,15 @@
+
+*{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+.welcome h2{
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    background-image: url('background/background 3.jpg');
+    border-radius: 10px;
+  }
+  
+  
